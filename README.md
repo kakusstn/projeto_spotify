@@ -3,8 +3,7 @@ Após passar alguma horas estudando sobre Serviços da AWS, resolvi ir atrás de
 Projeto foi criado a partir dos videos do canal Date whit Data e com a ajuda de alguns amigos quando as dúvidas apareceram 
 
 ## Ferramentas utilizadas
-![](projeto_spotify/img/arquitetura_projeto.jpg)
-
+![](img/arquitetura_projeto.jpg)
 ## Objetivo
 Criar um Datawarehouse dentro do S3, com bases disponibilizadas no Kaggle referentes à alguns cantores, albuns e musicas que estão no Spotify. Fazer o processo de ETL com o Glue
 
