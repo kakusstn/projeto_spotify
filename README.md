@@ -1,8 +1,8 @@
 # Introdução
 
 Olá a todos!\
-Após passar alguma horas estudando sobre Serviços da AWS, resolvi ir atrás de alguns projetos para começar a mostrar o que tenho trilhado nessa jornada. \
-Projeto foi criado a partir dos videos do canal Date whit Data e com a ajuda de alguns amigos. Construi um projeto de engenharia de dados completo do início ao fim, utilizando a AWS Cloud.
+Após passar algumas horas estudando sobre Serviços da AWS, resolvi ir atrás de alguns projetos para começar a mostrar o que tenho trilhado nessa jornada. \
+Projeto foi criado a partir dos videos do canal Date with Data e com a ajuda de alguns amigos. Construi um projeto de engenharia de dados completo do início ao fim, utilizando a AWS Cloud.
 
 
 ## Ferramentas utilizadas
