@@ -5,7 +5,7 @@ Projeto foi criado a partir dos videos do canal Date whit Data e com a ajuda de 
 ## Ferramentas utilizadas
 ![](img/arquitetura_projeto.jpg)
 ## Objetivo
-Criar um Datawarehouse dentro do S3, com bases disponibilizadas no Kaggle referentes à alguns cantores, albuns e musicas que estão no Spotify. Fazer o processo de ETL com o Glue
+Criar um Datawarehouse dentro do S3, com bases disponibilizadas no Kaggle referentes à alguns cantores, albuns e musicas que estão no Spotify. Fazer o processo de ETL com o Glue Jobs a principio
 
 ### Objetivo pessoal
 O trabalho em questão é executado com o propósito de estudo e aprimoramento pessoal. Com interesse em aprofundar meu entendimento sobre o assunto e as ferramentas que são utilizadas, e,  a desenvolver minhas habilidades e competências 
